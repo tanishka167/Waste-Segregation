@@ -33,7 +33,9 @@ Setup
 1.	Connect the components as per the schematic.
 2.	Upload the given Arduino code to the Arduino Uno.
 3.	Ensure the hardware setup includes a divided box for wet and dry waste, with a Servo Motor for automated segregation.
+   
 Usage
+
 1.	Power on the Arduino Uno.
 2.	Place trash on the rain sensor to initiate the segregation process.
 3.	Observe the Servo Motor's movement as it slides the trash.
